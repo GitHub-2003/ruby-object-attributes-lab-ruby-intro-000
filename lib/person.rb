@@ -16,8 +16,10 @@ class Person
   end
 end
 
+=begin
 marie = Person.new("Marie")
 puts(marie.name)
 marie.name = "Marie Ju"
 marie.job = "Engr Mgr"
 puts("Name:  #{marie.name}; Job:  #{marie.job}")
+=end
