@@ -13,7 +13,9 @@ class Dog
   end
 end
 
+myDog = Dog.new
 myDog.name = "Snoopy"
 puts(myDog.name)
 myDog.breed = "Husky"
 puts(myDog.breed)
+
