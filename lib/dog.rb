@@ -18,4 +18,3 @@ myDog.name = "Snoopy"
 puts(myDog.name)
 myDog.breed = "Husky"
 puts(myDog.breed)
-
