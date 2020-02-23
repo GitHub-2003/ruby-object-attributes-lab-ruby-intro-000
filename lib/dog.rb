@@ -13,11 +13,7 @@ class Dog
   end
 end
 
-=begin
-myDog = Dog.new("Fido")
-puts(myDog.name)
 myDog.name = "Snoopy"
 puts(myDog.name)
 myDog.breed = "Husky"
 puts(myDog.breed)
-=end
